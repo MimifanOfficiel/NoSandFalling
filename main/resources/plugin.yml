@@ -1,0 +1,5 @@
+name: NoSandFall
+version: '${project.version}'
+main: fr.mimifan.main.Main
+api-version: 1.19
+authors: [ Mimifan ]
